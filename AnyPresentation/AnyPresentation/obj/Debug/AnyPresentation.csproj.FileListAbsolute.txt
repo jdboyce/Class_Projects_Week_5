@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\Folders\Projects\Week 5\AnyPresentation\AnyPresentation\bin\Debug\AnyPresentation.exe.config
+C:\Users\Owner\Desktop\Folders\Projects\Week 5\AnyPresentation\AnyPresentation\bin\Debug\AnyPresentation.exe
+C:\Users\Owner\Desktop\Folders\Projects\Week 5\AnyPresentation\AnyPresentation\bin\Debug\AnyPresentation.pdb
+C:\Users\Owner\Desktop\Folders\Projects\Week 5\AnyPresentation\AnyPresentation\obj\Debug\AnyPresentation.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Folders\Projects\Week 5\AnyPresentation\AnyPresentation\obj\Debug\AnyPresentation.exe
+C:\Users\Owner\Desktop\Folders\Projects\Week 5\AnyPresentation\AnyPresentation\obj\Debug\AnyPresentation.pdb
+C:\Users\Owner\Desktop\Home\Projects\Archives\Week 5 - Duplicate\AnyPresentation\AnyPresentation\bin\Debug\AnyPresentation.exe.config
+C:\Users\Owner\Desktop\Home\Projects\Archives\Week 5 - Duplicate\AnyPresentation\AnyPresentation\obj\Debug\AnyPresentation.exe
+C:\Users\Owner\Desktop\Home\Projects\Archives\Week 5 - Duplicate\AnyPresentation\AnyPresentation\obj\Debug\AnyPresentation.pdb
